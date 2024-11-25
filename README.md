@@ -52,6 +52,6 @@ Based on the analysis, the following recommendations are made:
 The Avocado Price Analysis Dashboard provides a comprehensive view of the avocado market over the past few years. By leveraging these insights, businesses can make data-driven decisions to enhance their strategies and improve overall performance.
 
 ## Author
-**Kajal Barley**
+Vaishnavi Darekar
 
 
